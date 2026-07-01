@@ -36,4 +36,4 @@ Before running the bot, you need to get the following tokens:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/yourusername/football-prediction-bot.git](https://github.com/yourusername/football-prediction-bot.git)
-   cd football-prediction-bot
+   cd Telegram-predictionBot
